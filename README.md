@@ -16,7 +16,7 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 - Channel Name: Loyd Lab
 - Channel Link: http://youtube.com/c/loydsLab/
 
-![](https://1.bp.blogspot.com/-pPd7D07J7-4/YE0tasRU41I/AAAAAAAABV0/4-Dz0TuJeis5cIbis7pyRHTFd0F5iemVQCLcBGAsYHQ/s1920/Portfolio_Youtube.png)
+[![](https://1.bp.blogspot.com/-jVi3MgrU6aE/YFfLSd7ZAgI/AAAAAAAABZI/IChHxEZ13jUzpRQVEqRfh6kDox3oVdvZACLcBGAsYHQ/s320/Youtube_thumb.png)](http://youtube.com/c/LoydsLab/)
 
 ### Open Codes Preview And Download
 
