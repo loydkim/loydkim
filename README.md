@@ -20,7 +20,7 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 
 | Dating App Main  | Chat App |  News Feed App |
 | :---------------: | :---------------: | :---------------: |
-| ![](https://github.com/loydkim/Dating_App_Main/blob/main/promo_ios.gif) | ![](https://github.com/loydkim/chat_app_loyd/blob/master/ios_promotion.gif) | ![](https://github.com/loydkim/flutter_feed_timeline/blob/master/android_promotion.gif) |
+| [![](https://github.com/loydkim/Dating_App_Main/blob/main/promo_ios.gif)](https://github.com/loydkim/Dating_App_Main) | [![](https://github.com/loydkim/chat_app_loyd/blob/master/ios_promotion.gif)](https://github.com/loydkim/chat_app_loyd) | [![](https://github.com/loydkim/flutter_feed_timeline/blob/master/android_promotion.gif)](https://github.com/loydkim/flutter_feed_timeline) |
 | Authentication  | Push Notification  | Registration |
 | ![](https://github.com/loydkim/Flutter_Firebase_Auth_2021/blob/main/Promo_firebase_auth.gif)  | ![](https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif)  | ![](https://github.com/loydkim/Dating_Intro_Signup/blob/main/DatingItnroPromo_android.gif)  |
 
