@@ -22,5 +22,6 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 | ------------- | ------------- | ------------- |
 | ![](https://github.com/loydkim/Dating_App_Main/blob/main/promo_ios.gif) | ![](https://github.com/loydkim/chat_app_loyd/blob/master/ios_promotion.gif) | ![](https://github.com/loydkim/flutter_feed_timeline/blob/master/android_promotion.gif) |
 | Content Cell  | Content Cell  | Content Cell  |
+| ![](https://github.com/loydkim/Flutter_Firebase_Auth_2021/blob/main/Promo_firebase_auth.gif)  | ![](https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif)  | ![](https://github.com/loydkim/Dating_Intro_Signup/blob/main/DatingItnroPromo_android.gif)  |
 
 [![loydkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=loydkim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
