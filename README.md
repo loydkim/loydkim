@@ -24,4 +24,4 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 | Authentication  | Push Notification  | Registration |
 | [![](https://github.com/loydkim/Flutter_Firebase_Auth_2021/blob/main/Promo_firebase_auth.gif)](https://github.com/loydkim/Flutter_Firebase_Auth_2021)  | [![](https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif)](https://github.com/loydkim/Flutter_Firebase_Messasing_2021)  | [![](https://github.com/loydkim/Dating_Intro_Signup/blob/main/DatingItnroPromo_android.gif)](https://github.com/loydkim/Dating_Intro_Signup)  |
 
-[![loydkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=loydkim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
