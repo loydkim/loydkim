@@ -19,7 +19,7 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 ### Open Codes
 
 | Dating App Main  | Chat App |  News Feed App |
-| ------------- | ------------- | | ------------- |
+| ------------- | ------------- | ------------- |
 | <img src="https://github.com/loydkim/Dating_App_Main/blob/main/promo_ios.gif" width="300" height="600">  | <img src="https://github.com/loydkim/chat_app_loyd/blob/master/ios_promotion.gif" width="300" height="560">  | <img src="https://github.com/loydkim/flutter_feed_timeline/blob/master/android_promotion.gif" width="300" height="520">  |
 | Content Cell  | Content Cell  | Content Cell  |
 
