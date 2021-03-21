@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am a mobile app developer using Flutter, Swift, Kotlin.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
