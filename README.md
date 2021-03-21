@@ -20,7 +20,7 @@ If my code is helpful to you, I really appreceiate if you buy me a coffee ðŸ™‡ðŸ
 
 [![](https://1.bp.blogspot.com/-jVi3MgrU6aE/YFfLSd7ZAgI/AAAAAAAABZI/IChHxEZ13jUzpRQVEqRfh6kDox3oVdvZACLcBGAsYHQ/s320/Youtube_thumb.png)](http://youtube.com/c/LoydsLab/)
 
-### Open Codes Preview And Download
+### Open Code Previews And Download
 
 | [Dating App Main](https://github.com/loydkim/Dating_App_Main)  | [Chat App](https://github.com/loydkim/chat_app_loyd) |  [News Feed App](https://github.com/loydkim/flutter_feed_timeline) |
 | :---------------: | :---------------: | :---------------: |
