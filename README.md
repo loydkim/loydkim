@@ -1,4 +1,4 @@
-### Hello 😀
+### Hello 👋🏻
 
 I am a mobile app developer using Flutter, Swift, Kotlin.
 
