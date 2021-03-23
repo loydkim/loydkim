@@ -1,7 +1,7 @@
 ### Hello 👋🏻
 
 I am a mobile app developer using Flutter, Swift, Kotlin. 
-- Portfolio: [Loyd Portfolio](https://loydlab.blogspot.com/)
+- Portfolio Site: [Loyd Portfolio](https://loydlab.blogspot.com/)
 
 
 If my code is helpful to you, I really appreceiate if you buy me a coffee 🙇🏻‍♂️☕️
