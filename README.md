@@ -4,9 +4,9 @@ I am a mobile app developer using Flutter, Swift, Kotlin.
 <!-- - Portfolio Site: [Loyd Portfolio](https://loydlab.blogspot.com/) -->
 <!-- 이 부분은 주석 처리되어 렌더링 시 보이지 않습니다. -->
 
-If my code is helpful to you, I really appreceiate if you buy me a coffee 🙇🏻‍♂️☕️
+<!-- If my code is helpful to you, I really appreciate if you buy me a coffee 🙇🏻‍♂️☕️
 
-[![](https://1.bp.blogspot.com/-dvUCBQdmi0s/YFfLITMCaiI/AAAAAAAABZE/Ej-_5PgqW14KKLYWVJg1SzlRup4Rvf_fQCLcBGAsYHQ/s0/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67.png)](https://www.buymeacoffee.com/loydkim)
+[![](https://1.bp.blogspot.com/-dvUCBQdmi0s/YFfLITMCaiI/AAAAAAAABZE/Ej-_5PgqW14KKLYWVJg1SzlRup4Rvf_fQCLcBGAsYHQ/s0/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67.png)](https://www.buymeacoffee.com/loydkim)-->
 
 ### Download My Apps
 
@@ -28,7 +28,7 @@ If my code is helpful to you, I really appreceiate if you buy me a coffee 🙇�
 ### Contact me
 
 - Email: kimloydmail@gmail.com
-- Linked In: www.linkedin.com/in/youngsic-loyd-kim-91545846
+- Linked In: [www.linkedin.com/in/youngsic-loyd-kim-91545846](https://www.linkedin.com/in/youngsic-kim-91545846/)
 
 ### Open Code Previews And Download
 
